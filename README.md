@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francischiputa
 - 👀 I’m full stack developer 
-- 🌱 Ny stack include python, Javascript, PHP, Django, React, React Native, Nextjs, Laravel and Flask, Mysql, MongoDB and Postgress.
+- 🌱 Tech stack: python, Javascript, PHP, Django, React, React Native, Nextjs, Laravel and Flask, Mysql, MongoDB and Postgress.
 - 💞️ Cloud computingand AI 
 - 📫 How to reach me fchiputa@gmail.com, @francischiputa linkedin, @francischiputa1 twitter and @francismwambachiputa facebook
 
